@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/tests.dir/uts/Foo_tests.cpp.o -o tests  ../external/gtest/src/googletest-build/lib/libgmock_main.a ../external/gtest/src/googletest-build/lib/libgtest.a ../external/gtest/src/googletest-build/lib/libgmock.a libimplementations.a 
