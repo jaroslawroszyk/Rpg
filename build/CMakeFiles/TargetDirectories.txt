@@ -1,0 +1,10 @@
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/CMakeFiles/googletest.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/CMakeFiles/tests1.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/CMakeFiles/test.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/Rpg/CMakeFiles/implementations.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/Rpg/CMakeFiles/tests.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/Rpg/CMakeFiles/test.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/Rpg/CMakeFiles/edit_cache.dir
+/mnt/c/Users/roszyk/Desktop/rpg/Rpg/build/Rpg/CMakeFiles/rebuild_cache.dir
