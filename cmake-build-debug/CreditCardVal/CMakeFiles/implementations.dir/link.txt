@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimplementations.a CMakeFiles/implementations.dir/src/Validator.cpp.o CMakeFiles/implementations.dir/src/CardDetails.cpp.o CMakeFiles/implementations.dir/src/Date.cpp.o
+/usr/bin/ranlib libimplementations.a

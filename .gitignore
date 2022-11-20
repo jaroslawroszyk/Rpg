@@ -1,0 +1,9 @@
+.idea/
+cmake-build-debug/
+todo.md
+.DS_Store
+.vscode/
+String/.DS_Store
+build/
+notes.mdcmake-build-debug/
+cmake-build-debug
